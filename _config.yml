@@ -17,7 +17,7 @@ title: WPF Digitale Kommunikation
 email: harun.sevinc@smail.th-koeln.de
 description: > # this means to ignore newlines until "baseurl:"
   Diese Seite entstand im Rahmen des Wahlpflicht Moduls "Digitale Kommunikation".
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://nxnc.github.io/wpf_dig_kom/" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: micologne
 github_username:  jekyll
