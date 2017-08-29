@@ -14,7 +14,8 @@ conferences. In addition, Skype also provides the function of screen transmissio
 Slack is a web-based instant messaging service that allows a team to share files, as well as provide different rooms to communicate with each other. Chat rooms with different topics are created for this purpose. Users can then join the appropriate room. Slack provides the integration of various services, such as Google Drive. Slack works natively in the browser, but can also be used as a desktop app and as a mobile app for both common operating systems.
 
 ## Trello
-Bei Trello handelt es sich um eine reine webbasierte Projektmanagementsoftware. Trello bietet die Möglichkeit an, auf sogenannten Boards, mit anderen Mitgliedern Listen zu erstellen. Diese können dann beliebig bearbeitet und mit Checklisten, Anhängen und mit einem festgelegten Termin versehen werden. Neben einer mobilen Version gibt es auch passend dazu Apps für beide gängigen Plattformen sowie Windows.
+
+Trello is a pure web-based project management software. Trello offers the possibility to create lists on known boards, with other members. These can then be processed as desired and with checklists, attachments and with a fixed appointment. In addition to a mobile version, there are also apps for both popular platforms and Windows.
 
 ## Git
 Git is a free software for managing file diversion. It works distributed. This means that there is no central sever, but each has its own local copy of the repository including the version history. Git is mainly a tool for developers. Nevertheless, it is in any case one of the tools that is developed in large projects in which software is developed. With Git, software can be better distributed. Everyone can work on the same program. In the best case everyone gets a partial task and then independent and independently from the other team. When someone is finished, only the part that has been edited by the project member is added.
