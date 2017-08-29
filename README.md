@@ -1,1 +1,1 @@
-# Infos rund um das Modul "Digitale Kommunikation" im Studiengang Medieninformatik
+WPF Digitale Kommunikation im Studiengang Medieninformatik
