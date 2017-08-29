@@ -1,0 +1,1 @@
+Sitemap: http://localhost:4000/wpf_dig_kom/sitemap.xml
