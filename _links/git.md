@@ -1,10 +1,13 @@
 ---
 layout: default
 title: Git
-scr: http://www.git-scm.com
-text: Official Git homepage with All the Documentation
+src: http://www.scrum.org
+text: Official Scrum page with a lot of ressources
 tags:
-  - Tools
-  - Developertools
-  - Collaboration
+    -Tools
+    - Developertools
+    - Scrum
+    - Team
+    - Developer
+    - Projectmanagement
 ---
