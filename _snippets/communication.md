@@ -23,3 +23,7 @@ Git is a free software for managing file diversion. It works distributed. This m
 ## Conclusion
 There are relatively many tools you can use for project management. However, you have to pay attention to what you need. Depending on the project type and affinity of the project members, different tools can be used. Since not all students are IT Affin, one could consider whether one uses several tools for different tasks. Skype offers the possibility to see in a videoconference, what would be important for such a project, since this can be mediated trust.
 As part of the project, a continuous exchange of information must take place, which is why you should have an instant messaging tool. Furthermore, a board as described in the section “Scrum Board” would also be useful. Also, a central place to exchange files would be very helpful. Especially for developers the use of Git would be very helpful.
+
+#### Further reading
+[Stackshare - Different Tech stacks of famous companys](https://stackshare.io/stacks)
+
