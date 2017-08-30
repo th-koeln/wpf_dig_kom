@@ -22,3 +22,7 @@ however, there is no real sprint and no sprint planning available to the student
 be presented by the product owner, it is a good idea. The items could be described relatively roughly,
 which would mean that the teams would be able to look at these items in more detail and work out
 the appropriate new items for everyone. This could happen collaboratively in the early days.
+
+#### Further reding
+
+[Scrum - Scrum.org Official homepage](http://www.scrum.org)
