@@ -26,4 +26,8 @@ As part of the project, a continuous exchange of information must take place, wh
 
 #### Further reading
 [Stackshare - Different Tech stacks of famous companys](https://stackshare.io/stacks)
+[entrepeneur.com -Article by Jason van den Brand(Founder and CEO of lenda)](https://www.entrepreneur.com/article/248366)
+[MUO(Make use of)- 8 of the best Free Collaborative Tools for Programmers(5 minutes to read)](http://www.makeuseof.com/tag/8-best-free-collaborative-tools-programmers/)
+[TechBeacon - Top agile tools that keep software engineers productive](https://techbeacon.com/top-agile-tools-keep-software-engineers-productive)
+[Stackshare - Post about most used techstacks and software by developers in 2016](https://stackshare.io/posts/top-developer-tools-2016)
 
