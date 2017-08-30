@@ -57,3 +57,10 @@ make working on a project more efficient. Since there were participants from dif
 our project, one should absolutely use tools that enable constant communication to be maintained. If
 possible via instant messaging or in the best case via voice or video conferencing. The next section
 will deal with this topic.
+
+
+#### Further reading
+[Atlasian - How to build a kick-ass agile team](https://www.atlassian.com/agile/teams)
+
+
+[Agile42 - Scrum Roles](http://www.agile42.com/en/agile-info-center/scrum-roles/)
