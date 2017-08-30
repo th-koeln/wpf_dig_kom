@@ -62,5 +62,6 @@ will deal with this topic.
 #### Further reading
 [Atlasian - How to build a kick-ass agile team](https://www.atlassian.com/agile/teams)
 
-
 [Agile42 - Scrum Roles](http://www.agile42.com/en/agile-info-center/scrum-roles/)
+
+[Scrum.de - Scrum Definition](https://www.scrum.de/scrum-definitionen/)
