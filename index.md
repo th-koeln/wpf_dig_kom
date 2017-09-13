@@ -31,11 +31,10 @@ they had not received any work assignments yet. The project members of the marke
 
 ## Conclusion
 
-Overall the project was successful. Since everyone with a different motivation or a different
-expectation of the project approached, one cannot assume that each the same experience could
+Overall the project was successful. Since everyoneapproached with a different motivation or a different
+expectation of the project, one cannot assume that each the same experience could
 take with them. It was surprising how much you could create in an international team with different
-group members. Unfortunately, there were difficulties in the planning of the project. Because each
-country had a different motivation in the project, the relationship was a little unbalanced. For us from
+group members. Unfortunately, there were difficulties in planning the project. Because each member had a different motivation in the project, the relationship was a little unbalanced. For us from
 Germany it was rather an experience, which is why we did not have the pressure like the French. I
 think it would look different if the project were carried out as a full-fledged event. Alternatively, the
 event could be held as an optional subject during a project week.
