@@ -15,27 +15,15 @@ sensible alternative.
 
 ## Product Owner
 
-The Prodct Owner is actually the person who makes the requirements and carries out the acceptance
-tests. However, implementation in such a small project is very impractical. The role would be useful to
-provide the student with an instance that keeps the overview or controls the progress of the team.
-Decrees would not have to happen as planned by the product owner, but could possibly be done by
-the whole team or by responsible persons.
-It would also be useful to divide the role to several students. In practice, it looks as if each of the
-customers is responsible for a completed task or the entire team is classified as a customer. Thus,
-several people could review the completed tasks, which would result in the project participants
-having a better insight into the tasks of the others. The advantage would be early detection, where
-there may be need for rework.
+The Product Owner is actually the person who makes the requirements and carries out the acceptance tests. However, implementation in such a small project is very impractical. The role would be useful to provide the student with an instance that keeps the overview or controls the progress of the team.
+Decrees would not have to happen as planned by the product owner, but could possibly be done by the whole team or by responsible persons.
+It would also be useful to divide the role to several students. In practice, it looks as if each of the customers is responsible for a completed task or the entire team is classified as a customer. Thus, several people could review the completed tasks, which would result in the project participants having a better insight into the tasks of the others. The advantage would be early detection, where there may be a need for rework.
 
 ## System Architect
 
 As a system architect, you should be responsible for setting up the system architecture. This includes
 the choice of technology, as well as the installation and management of this technology. You should
-also make the preparation for domain models for the developers. For example, database models
-could already be created and discussed with the developers. These should then be introduced by the
-System Architect. The System Architect could take on the role of providing developers with the right
-platform. Of course, this also implies the agreement with the developers. It would be optimal if all
-together the requirements from the technical side to the system and the System Architect these
-implement.
+also make the preparation for domain models for the developers. For example, database models could already be created and discussed with the developers. These should then be introduced by the System Architect. The System Architect could take on the role of providing developers with the right platform. Of course, this also implies the agreement with the developers. It would be optimal if all together the requirements from the technical side of the system and the System Architect these implement.
 
 ## Developer
 
@@ -48,6 +36,4 @@ creating different branches, each developer can work on their own sub-task.
 
 ## Designer
 
-The design students should create mockups and / or a CI which can then be implemented by some of
-the developers. In principle one could schedule 1 to 2 days for this task. In addition, they could help
-with the advertising campaign, as was currently the case in our project.
+The design students should create mock-ups and / or a CI which can then be implemented by some of the developers. In principle, one could schedule 1 to 2 days for this task. In addition, they could help with the advertising campaign, as was currently the case in our project.
