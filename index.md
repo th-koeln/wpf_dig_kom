@@ -30,7 +30,7 @@ first, it was clear that the developers had almost nothing to do, since they had
 
 ## Conclusion
 
-Overall the project was successful. Since everyoneapproached with a different motivation or a different
+Overall the project was successful. Since everyone approached with a different motivation or a different
 expectation of the project, one cannot assume that each the same experience could
 take with them. It was surprising how much you could create in an international team with different
 group members. Unfortunately, there were difficulties in planning the project. Because each member had a different motivation in the project, the relationship was a little unbalanced. For us from
