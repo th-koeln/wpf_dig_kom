@@ -25,9 +25,15 @@ There are relatively many tools you can use for project management. However, you
 As part of the project, a continuous exchange of information must take place, which is why you should have an instant messaging tool. Furthermore, a board as described in the section “Scrum Board” would also be useful. Also, a central place to exchange files would be very helpful. Especially for developers, the use of Git would be very helpful.
 
 #### Further reading
-[Git - Git Homepage](https://git-scm.com/)
+[Git - Official Git Homepage](https://git-scm.com/)
+
+[GitHub - Official GitHub Homepage](https://github.com/)
 
 [Trello - Official Trello Homepage](https://www.atlassian.com/software/trello)
+
+[Skype - Official Skype Homepage](https://www.skype.com/en/)
+
+[Slack - Official Slack Homepage](https://slack.com/intl/de-de)
 
 [Stackshare - Different Tech stacks of famous companys](https://stackshare.io/stacks)
 
