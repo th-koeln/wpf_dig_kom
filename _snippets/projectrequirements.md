@@ -9,10 +9,7 @@ improve the project.
 
 # Project Plan
 
-A rough project plan / course plan would be useful to determine when which parts of the project
-should be finished. With this specification you can prevent the stagnation at a task or see the fulfilled
-tasks, which are already due. Also, this serves as a reference for the students so they do not put too
-much time into a themed area. The students could thereby assess their ability to test expences.</p>
+A rough project plan / course plan would be useful to determine when which parts of the project should be finished. With this specification, you can prevent the stagnation at a task or see the fulfilled tasks, which are already due. Also, this serves as a reference for the students so they do not put too much time into a themed area. The students could thereby assess their ability to test expenses.
 
 # Items
 Teachers could already develop rough tasks / items during the elaboration of the task, which the
@@ -24,9 +21,7 @@ needed.
 
 
 ## Scrum-Board
-The ScrumBoard is the tool that represents how far an item has been edited. This is mainly for the
-overview of the individual tasks and the progress. In general, the ScrumBoard is divided into several
-columns:
+The scoreboard is the tool that represents how far an item has been edited. This is mainly for the overview of the individual tasks and the progress. In general, the scoreboard is divided into several columns:
 
 ### Todos / Stories
 Here are the items listed as stories, which must be implemented by the developers. This can be done
@@ -44,12 +39,7 @@ acceptance criteria
 This is where the tasks are performed when they are completely revised and meet all acceptance
 criteria.
 
-A scrum board could be created digitally but also analog. There is a lot of free tools available online
-for this board, which also work very well. The illustration is only an example of a scrum board. It can
-be seen that the items have different colors to distinguish the type of the item. Another methodology
-in Scrum would be to place a sticker or point on an item after the last day, which was in the same
-state the previous day. This means that if Item 1 remains in the “Progress” area for three days, it will
-receive three stickers. This allows you to see how long an item is already in the same state.
+A scrum board could be created digitally, but also analog. There is a lot of free tools available online for this board, which also work very well. The illustration is only an example of a scrum board. It can be seen that the items have different colors to distinguish the type of the item. Another methodology in Scrum would be to place a sticker or point on an item after the last day, which was in the same state the previous day. This means that if Item 1 remains in the “Progress” area for three days, it will receive three stickers. This allows you to see how long an item is already in the
 
 ## Tools
 With project work hardly any tools are needed. The problem is to make the right choice. Tools should
