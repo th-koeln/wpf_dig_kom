@@ -21,11 +21,11 @@ needed.
 
 
 ## Scrum-Board
-The scoreboard is the tool that represents how far an item has been edited. This is mainly for the overview of the individual tasks and the progress. In general, the scoreboard is divided into several columns:
+The scrum-board is the tool that represents how far an item has been edited. This is mainly for the overview of the individual tasks and the progress. In general, the scrum-board is divided into several columns:
 
 ### Todos / Stories
 Here are the items listed as stories, which must be implemented by the developers. This can be done
-from the backlog or you can simply create new tasks. Often it is to create a story tasks, from which in
+from the backlog or you can simply create new tasks. Often it is to create a story task, from which in
 turn more can arise.
 
 ### Progress
